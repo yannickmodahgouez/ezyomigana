@@ -1,0 +1,33 @@
+ruby {
+    border: medium none;
+    display: inline-table;
+    height: 1em;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-indent: 0;
+    vertical-align: text-bottom;
+    white-space: nowrap;
+}
+
+rb {
+    border: medium none;
+    display: table-row-group;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    white-space: nowrap;
+}
+
+rt {
+    border: medium none;
+    display: table-header-group;
+    font-size: 0.75em;
+    line-height: 1.1;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    white-space: nowrap;
+}
